@@ -1,0 +1,24 @@
+{
+    "cards":[{
+        "img":"samsung.webp",
+        "name":"samsung",
+        "price":"100000",
+        "offer":"80000",
+        "button":"view"
+
+},{
+    "img":"iphone-13.jfif",
+    "name":"iphone",
+    "price":"100000",
+    "offer":"80000",
+    "button":"view"
+},{
+
+ "img":"redmi.jpg",
+        "name":"redmi",
+        "price":"100000",
+        "offer":"80000",
+        "button":"view"
+}
+]
+}
